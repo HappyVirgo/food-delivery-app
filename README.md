@@ -13,7 +13,6 @@ Anyone can use this code for their own purpose. If you are interested please mak
 <a href="https://github.com/Akshay0701/food_delivery_app/blob/master/COPYING"><img src="https://img.shields.io/github/license/Akshay0701/food_delivery_app" alt="license"/></a>
 </p>
 
-
 ## Application features 
 
 - Simple UI for food delivery app's
